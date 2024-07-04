@@ -6,7 +6,7 @@
 
 --- 
 ### Contacts information
-* **Phone number** - +375(29)222-02-33
+* **Phone number** - +375(29)222-02-33/ +375(44)555-66-12
 * **Email adress** - nicksomar@mail.ru
 * [**Instagramm**](https://www.instagram.com/mikola)
 * **Discord**
