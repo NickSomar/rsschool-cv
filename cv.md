@@ -35,3 +35,4 @@ My name is Nikolai. I was born in the Republic of Belarus, in the city of Minsk.
 * Russian
 * English(A2)
 * Belarussian
+* Poland
