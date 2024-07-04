@@ -6,7 +6,7 @@
 
 --- 
 ### Contacts information
-* **Phone number** - +375(29)222-02-22
+* **Phone number** - +375(29)222-02-33
 * **Email adress** - nicksomar@mail.ru
 * [**Instagramm**](https://www.instagram.com/mikola)
 * **Discord**
@@ -35,4 +35,4 @@ My name is Nikolai. I was born in the Republic of Belarus, in the city of Minsk.
 * Russian
 * English(A2)
 * Belarussian
-* Poland
+
